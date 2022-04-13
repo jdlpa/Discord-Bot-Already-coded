@@ -1,1 +1,6 @@
-This Bot App Was Created By Jdlpa Please Feel Free To Use TO MAKE THE BOT ONLINE 24/7 USE Uptimerobot.com 😁
+This Bot App Was Created By Jdlpa Please Feel Free To Use TO MAKE THE BOT ONLINE 24/7 USE BETTERUPTIME.COM🤖
+
+
+FOR THE PACKAGES DOWNLOAD DISCORD.JS , EXPRESS , FS 📦
+
+YOU CAN ONLY USE THIS ON REPLIT.COM💻
